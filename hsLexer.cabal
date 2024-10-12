@@ -4,16 +4,13 @@ name:                hsLexer
 version:             0.1.0.0
 -- synopsis:
 -- description:
-homepage:            https://github.com/githubuser/hsLexer#readme
-license:             BSD-3-Clause
-license-file:        LICENSE
-author:              Author name here
-maintainer:          example@example.com
-copyright:           2024 Author name here
-category:            Web
+homepage:            https://github.com/dgunther2001/Haskell_Lexer#readme
+author:              Daniel Gunther
+maintainer:          danielgunther2001@gmail.com
+copyright:           2024 Daniel Gunther
+category:            Lexer
 build-type:          Simple
 extra-source-files:  README.md
-                     CHANGELOG.md
 
 executable hsLexer
   hs-source-dirs:      src
